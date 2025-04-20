@@ -1,0 +1,313 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Valeriya_Bugakova\\source\\net-mentoring-programs-main\\intermediate\\02_multithreading_in_net\\sources\\01_multithreading\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB6D4FC7-9A4B-47B7-B81D-09073743BEB3}|OptinalClient\\OptinalClient.csproj|c:\\users\\valeriya_bugakova\\source\\net-mentoring-programs-main\\intermediate\\02_multithreading_in_net\\sources\\01_multithreading\\optinalclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB6D4FC7-9A4B-47B7-B81D-09073743BEB3}|OptinalClient\\OptinalClient.csproj|solutionrelative:optinalclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ADE9A9F-E4C6-4729-BA90-74D0ED28E6FA}|OptinalServer\\OptinalServer.csproj|c:\\users\\valeriya_bugakova\\source\\net-mentoring-programs-main\\intermediate\\02_multithreading_in_net\\sources\\01_multithreading\\optinalserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ADE9A9F-E4C6-4729-BA90-74D0ED28E6FA}|OptinalServer\\OptinalServer.csproj|solutionrelative:optinalserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5231083A-4936-4CC4-87FE-CFA228AA372D}|MultiThreading.Task6.Continuation\\MultiThreading.Task6.Continuation.csproj|c:\\users\\valeriya_bugakova\\source\\net-mentoring-programs-main\\intermediate\\02_multithreading_in_net\\sources\\01_multithreading\\multithreading.task6.continuation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5231083A-4936-4CC4-87FE-CFA228AA372D}|MultiThreading.Task6.Continuation\\MultiThreading.Task6.Continuation.csproj|solutionrelative:multithreading.task6.continuation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5231083A-4936-4CC4-87FE-CFA228AA372D}|MultiThreading.Task6.Continuation\\MultiThreading.Task6.Continuation.csproj|c:\\users\\valeriya_bugakova\\source\\net-mentoring-programs-main\\intermediate\\02_multithreading_in_net\\sources\\01_multithreading\\multithreading.task6.continuation\\multithreading.task6.continuation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5231083A-4936-4CC4-87FE-CFA228AA372D}|MultiThreading.Task6.Continuation\\MultiThreading.Task6.Continuation.csproj|solutionrelative:multithreading.task6.continuation\\multithreading.task6.continuation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6E503A-3BD1-4117-803F-DE3A1D3D72EE}|MultiThreading.Task5.Threads.SharedCollection\\MultiThreading.Task5.Threads.SharedCollection.csproj|c:\\users\\valeriya_bugakova\\source\\net-mentoring-programs-main\\intermediate\\02_multithreading_in_net\\sources\\01_multithreading\\multithreading.task5.threads.sharedcollection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F6E503A-3BD1-4117-803F-DE3A1D3D72EE}|MultiThreading.Task5.Threads.SharedCollection\\MultiThreading.Task5.Threads.SharedCollection.csproj|solutionrelative:multithreading.task5.threads.sharedcollection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6E503A-3BD1-4117-803F-DE3A1D3D72EE}|MultiThreading.Task5.Threads.SharedCollection\\MultiThreading.Task5.Threads.SharedCollection.csproj|c:\\users\\valeriya_bugakova\\source\\net-mentoring-programs-main\\intermediate\\02_multithreading_in_net\\sources\\01_multithreading\\multithreading.task5.threads.sharedcollection\\multithreading.task5.threads.sharedcollection.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3F6E503A-3BD1-4117-803F-DE3A1D3D72EE}|MultiThreading.Task5.Threads.SharedCollection\\MultiThreading.Task5.Threads.SharedCollection.csproj|solutionrelative:multithreading.task5.threads.sharedcollection\\multithreading.task5.threads.sharedcollection.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C9627BE-0041-493D-B2CA-C8CD6B4BB3F5}|MultiThreading.Task4.Threads.Join\\MultiThreading.Task4.Threads.Join.csproj|c:\\users\\valeriya_bugakova\\source\\net-mentoring-programs-main\\intermediate\\02_multithreading_in_net\\sources\\01_multithreading\\multithreading.task4.threads.join\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C9627BE-0041-493D-B2CA-C8CD6B4BB3F5}|MultiThreading.Task4.Threads.Join\\MultiThreading.Task4.Threads.Join.csproj|solutionrelative:multithreading.task4.threads.join\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C9627BE-0041-493D-B2CA-C8CD6B4BB3F5}|MultiThreading.Task4.Threads.Join\\MultiThreading.Task4.Threads.Join.csproj|c:\\users\\valeriya_bugakova\\source\\net-mentoring-programs-main\\intermediate\\02_multithreading_in_net\\sources\\01_multithreading\\multithreading.task4.threads.join\\multithreading.task4.threads.join.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3C9627BE-0041-493D-B2CA-C8CD6B4BB3F5}|MultiThreading.Task4.Threads.Join\\MultiThreading.Task4.Threads.Join.csproj|solutionrelative:multithreading.task4.threads.join\\multithreading.task4.threads.join.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10CB1471-FE3F-4A2E-8938-D7F1B5CEAA37}|MultiThreading.Task3.MatrixMultiplier.Tests\\MultiThreading.Task3.MatrixMultiplier.Tests.csproj|c:\\users\\valeriya_bugakova\\source\\net-mentoring-programs-main\\intermediate\\02_multithreading_in_net\\sources\\01_multithreading\\multithreading.task3.matrixmultiplier.tests\\multipliertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10CB1471-FE3F-4A2E-8938-D7F1B5CEAA37}|MultiThreading.Task3.MatrixMultiplier.Tests\\MultiThreading.Task3.MatrixMultiplier.Tests.csproj|solutionrelative:multithreading.task3.matrixmultiplier.tests\\multipliertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10CB1471-FE3F-4A2E-8938-D7F1B5CEAA37}|MultiThreading.Task3.MatrixMultiplier.Tests\\MultiThreading.Task3.MatrixMultiplier.Tests.csproj|c:\\users\\valeriya_bugakova\\source\\net-mentoring-programs-main\\intermediate\\02_multithreading_in_net\\sources\\01_multithreading\\multithreading.task3.matrixmultiplier.tests\\multithreading.task3.matrixmultiplier.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{10CB1471-FE3F-4A2E-8938-D7F1B5CEAA37}|MultiThreading.Task3.MatrixMultiplier.Tests\\MultiThreading.Task3.MatrixMultiplier.Tests.csproj|solutionrelative:multithreading.task3.matrixmultiplier.tests\\multithreading.task3.matrixmultiplier.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{385391B2-1A7A-4DC7-863D-5A6A0D5400E3}|MultiThreading.Task3.Matrixes\\MultiThreading.Task3.MatrixMultiplier.csproj|c:\\users\\valeriya_bugakova\\source\\net-mentoring-programs-main\\intermediate\\02_multithreading_in_net\\sources\\01_multithreading\\multithreading.task3.matrixes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{385391B2-1A7A-4DC7-863D-5A6A0D5400E3}|MultiThreading.Task3.Matrixes\\MultiThreading.Task3.MatrixMultiplier.csproj|solutionrelative:multithreading.task3.matrixes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{385391B2-1A7A-4DC7-863D-5A6A0D5400E3}|MultiThreading.Task3.Matrixes\\MultiThreading.Task3.MatrixMultiplier.csproj|c:\\users\\valeriya_bugakova\\source\\net-mentoring-programs-main\\intermediate\\02_multithreading_in_net\\sources\\01_multithreading\\multithreading.task3.matrixes\\multipliers\\matricesmultiplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{385391B2-1A7A-4DC7-863D-5A6A0D5400E3}|MultiThreading.Task3.Matrixes\\MultiThreading.Task3.MatrixMultiplier.csproj|solutionrelative:multithreading.task3.matrixes\\multipliers\\matricesmultiplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{385391B2-1A7A-4DC7-863D-5A6A0D5400E3}|MultiThreading.Task3.Matrixes\\MultiThreading.Task3.MatrixMultiplier.csproj|c:\\users\\valeriya_bugakova\\source\\net-mentoring-programs-main\\intermediate\\02_multithreading_in_net\\sources\\01_multithreading\\multithreading.task3.matrixes\\multipliers\\matricesmultiplierparallel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{385391B2-1A7A-4DC7-863D-5A6A0D5400E3}|MultiThreading.Task3.Matrixes\\MultiThreading.Task3.MatrixMultiplier.csproj|solutionrelative:multithreading.task3.matrixes\\multipliers\\matricesmultiplierparallel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D02D53F-B27C-4185-9BE7-4C83E7783234}|MultiThreading.Task2.Chaining\\MultiThreading.Task2.Chaining.csproj|c:\\users\\valeriya_bugakova\\source\\net-mentoring-programs-main\\intermediate\\02_multithreading_in_net\\sources\\01_multithreading\\multithreading.task2.chaining\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D02D53F-B27C-4185-9BE7-4C83E7783234}|MultiThreading.Task2.Chaining\\MultiThreading.Task2.Chaining.csproj|solutionrelative:multithreading.task2.chaining\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D02D53F-B27C-4185-9BE7-4C83E7783234}|MultiThreading.Task2.Chaining\\MultiThreading.Task2.Chaining.csproj|c:\\users\\valeriya_bugakova\\source\\net-mentoring-programs-main\\intermediate\\02_multithreading_in_net\\sources\\01_multithreading\\multithreading.task2.chaining\\multithreading.task2.chaining.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0D02D53F-B27C-4185-9BE7-4C83E7783234}|MultiThreading.Task2.Chaining\\MultiThreading.Task2.Chaining.csproj|solutionrelative:multithreading.task2.chaining\\multithreading.task2.chaining.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CC3D09B-1941-4C28-BDB8-A62BC6BF07B6}|MultiThreading.Task1.100Tasks\\MultiThreading.Task1.100Tasks.csproj|c:\\users\\valeriya_bugakova\\source\\net-mentoring-programs-main\\intermediate\\02_multithreading_in_net\\sources\\01_multithreading\\multithreading.task1.100tasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CC3D09B-1941-4C28-BDB8-A62BC6BF07B6}|MultiThreading.Task1.100Tasks\\MultiThreading.Task1.100Tasks.csproj|solutionrelative:multithreading.task1.100tasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CC3D09B-1941-4C28-BDB8-A62BC6BF07B6}|MultiThreading.Task1.100Tasks\\MultiThreading.Task1.100Tasks.csproj|c:\\users\\valeriya_bugakova\\source\\net-mentoring-programs-main\\intermediate\\02_multithreading_in_net\\sources\\01_multithreading\\multithreading.task1.100tasks\\multithreading.task1.100tasks.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5CC3D09B-1941-4C28-BDB8-A62BC6BF07B6}|MultiThreading.Task1.100Tasks\\MultiThreading.Task1.100Tasks.csproj|solutionrelative:multithreading.task1.100tasks\\multithreading.task1.100tasks.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Valeriya_Bugakova\\source\\net-mentoring-programs-main\\intermediate\\02_multithreading_in_net\\sources\\01_multithreading\\OptinalClient\\Program.cs",
+              "RelativeDocumentMoniker": "OptinalClient\\Program.cs",
+              "ToolTip": "C:\\Users\\Valeriya_Bugakova\\source\\net-mentoring-programs-main\\intermediate\\02_multithreading_in_net\\sources\\01_multithreading\\OptinalClient\\Program.cs",
+              "RelativeToolTip": "OptinalClient\\Program.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAQwDgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T13:08:02.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Valeriya_Bugakova\\source\\net-mentoring-programs-main\\intermediate\\02_multithreading_in_net\\sources\\01_multithreading\\OptinalServer\\Program.cs",
+              "RelativeDocumentMoniker": "OptinalServer\\Program.cs",
+              "ToolTip": "C:\\Users\\Valeriya_Bugakova\\source\\net-mentoring-programs-main\\intermediate\\02_multithreading_in_net\\sources\\01_multithreading\\OptinalServer\\Program.cs",
+              "RelativeToolTip": "OptinalServer\\Program.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAgwEcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T13:06:28.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MultiThreading.Task6.Continuation",
+              "DocumentMoniker": "C:\\Users\\Valeriya_Bugakova\\source\\net-mentoring-programs-main\\intermediate\\02_multithreading_in_net\\sources\\01_multithreading\\MultiThreading.Task6.Continuation\\MultiThreading.Task6.Continuation.csproj",
+              "RelativeDocumentMoniker": "MultiThreading.Task6.Continuation\\MultiThreading.Task6.Continuation.csproj",
+              "ToolTip": "C:\\Users\\Valeriya_Bugakova\\source\\net-mentoring-programs-main\\intermediate\\02_multithreading_in_net\\sources\\01_multithreading\\MultiThreading.Task6.Continuation\\MultiThreading.Task6.Continuation.csproj",
+              "RelativeToolTip": "MultiThreading.Task6.Continuation\\MultiThreading.Task6.Continuation.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-20T12:53:12.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Valeriya_Bugakova\\source\\net-mentoring-programs-main\\intermediate\\02_multithreading_in_net\\sources\\01_multithreading\\MultiThreading.Task6.Continuation\\Program.cs",
+              "RelativeDocumentMoniker": "MultiThreading.Task6.Continuation\\Program.cs",
+              "ToolTip": "C:\\Users\\Valeriya_Bugakova\\source\\net-mentoring-programs-main\\intermediate\\02_multithreading_in_net\\sources\\01_multithreading\\MultiThreading.Task6.Continuation\\Program.cs",
+              "RelativeToolTip": "MultiThreading.Task6.Continuation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T12:52:58.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MultiThreading.Task5.Threads.SharedCollection",
+              "DocumentMoniker": "C:\\Users\\Valeriya_Bugakova\\source\\net-mentoring-programs-main\\intermediate\\02_multithreading_in_net\\sources\\01_multithreading\\MultiThreading.Task5.Threads.SharedCollection\\MultiThreading.Task5.Threads.SharedCollection.csproj",
+              "RelativeDocumentMoniker": "MultiThreading.Task5.Threads.SharedCollection\\MultiThreading.Task5.Threads.SharedCollection.csproj",
+              "ToolTip": "C:\\Users\\Valeriya_Bugakova\\source\\net-mentoring-programs-main\\intermediate\\02_multithreading_in_net\\sources\\01_multithreading\\MultiThreading.Task5.Threads.SharedCollection\\MultiThreading.Task5.Threads.SharedCollection.csproj",
+              "RelativeToolTip": "MultiThreading.Task5.Threads.SharedCollection\\MultiThreading.Task5.Threads.SharedCollection.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-20T12:03:17.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Valeriya_Bugakova\\source\\net-mentoring-programs-main\\intermediate\\02_multithreading_in_net\\sources\\01_multithreading\\MultiThreading.Task5.Threads.SharedCollection\\Program.cs",
+              "RelativeDocumentMoniker": "MultiThreading.Task5.Threads.SharedCollection\\Program.cs",
+              "ToolTip": "C:\\Users\\Valeriya_Bugakova\\source\\net-mentoring-programs-main\\intermediate\\02_multithreading_in_net\\sources\\01_multithreading\\MultiThreading.Task5.Threads.SharedCollection\\Program.cs",
+              "RelativeToolTip": "MultiThreading.Task5.Threads.SharedCollection\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T11:50:11.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Valeriya_Bugakova\\source\\net-mentoring-programs-main\\intermediate\\02_multithreading_in_net\\sources\\01_multithreading\\MultiThreading.Task4.Threads.Join\\Program.cs",
+              "RelativeDocumentMoniker": "MultiThreading.Task4.Threads.Join\\Program.cs",
+              "ToolTip": "C:\\Users\\Valeriya_Bugakova\\source\\net-mentoring-programs-main\\intermediate\\02_multithreading_in_net\\sources\\01_multithreading\\MultiThreading.Task4.Threads.Join\\Program.cs",
+              "RelativeToolTip": "MultiThreading.Task4.Threads.Join\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAiwEEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T11:37:19.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MultiThreading.Task4.Threads.Join",
+              "DocumentMoniker": "C:\\Users\\Valeriya_Bugakova\\source\\net-mentoring-programs-main\\intermediate\\02_multithreading_in_net\\sources\\01_multithreading\\MultiThreading.Task4.Threads.Join\\MultiThreading.Task4.Threads.Join.csproj",
+              "RelativeDocumentMoniker": "MultiThreading.Task4.Threads.Join\\MultiThreading.Task4.Threads.Join.csproj",
+              "ToolTip": "C:\\Users\\Valeriya_Bugakova\\source\\net-mentoring-programs-main\\intermediate\\02_multithreading_in_net\\sources\\01_multithreading\\MultiThreading.Task4.Threads.Join\\MultiThreading.Task4.Threads.Join.csproj",
+              "RelativeToolTip": "MultiThreading.Task4.Threads.Join\\MultiThreading.Task4.Threads.Join.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-20T11:37:11.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MultiThreading.Task3.MatrixMultiplier.Tests",
+              "DocumentMoniker": "C:\\Users\\Valeriya_Bugakova\\source\\net-mentoring-programs-main\\intermediate\\02_multithreading_in_net\\sources\\01_multithreading\\MultiThreading.Task3.MatrixMultiplier.Tests\\MultiThreading.Task3.MatrixMultiplier.Tests.csproj",
+              "RelativeDocumentMoniker": "MultiThreading.Task3.MatrixMultiplier.Tests\\MultiThreading.Task3.MatrixMultiplier.Tests.csproj",
+              "ToolTip": "C:\\Users\\Valeriya_Bugakova\\source\\net-mentoring-programs-main\\intermediate\\02_multithreading_in_net\\sources\\01_multithreading\\MultiThreading.Task3.MatrixMultiplier.Tests\\MultiThreading.Task3.MatrixMultiplier.Tests.csproj",
+              "RelativeToolTip": "MultiThreading.Task3.MatrixMultiplier.Tests\\MultiThreading.Task3.MatrixMultiplier.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-18T18:31:31.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MultiplierTest.cs",
+              "DocumentMoniker": "C:\\Users\\Valeriya_Bugakova\\source\\net-mentoring-programs-main\\intermediate\\02_multithreading_in_net\\sources\\01_multithreading\\MultiThreading.Task3.MatrixMultiplier.Tests\\MultiplierTest.cs",
+              "RelativeDocumentMoniker": "MultiThreading.Task3.MatrixMultiplier.Tests\\MultiplierTest.cs",
+              "ToolTip": "C:\\Users\\Valeriya_Bugakova\\source\\net-mentoring-programs-main\\intermediate\\02_multithreading_in_net\\sources\\01_multithreading\\MultiThreading.Task3.MatrixMultiplier.Tests\\MultiplierTest.cs",
+              "RelativeToolTip": "MultiThreading.Task3.MatrixMultiplier.Tests\\MultiplierTest.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAMwCsAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T17:44:47.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Valeriya_Bugakova\\source\\net-mentoring-programs-main\\intermediate\\02_multithreading_in_net\\sources\\01_multithreading\\MultiThreading.Task3.Matrixes\\Program.cs",
+              "RelativeDocumentMoniker": "MultiThreading.Task3.Matrixes\\Program.cs",
+              "ToolTip": "C:\\Users\\Valeriya_Bugakova\\source\\net-mentoring-programs-main\\intermediate\\02_multithreading_in_net\\sources\\01_multithreading\\MultiThreading.Task3.Matrixes\\Program.cs",
+              "RelativeToolTip": "MultiThreading.Task3.Matrixes\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T17:42:50.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MatricesMultiplierParallel.cs",
+              "DocumentMoniker": "C:\\Users\\Valeriya_Bugakova\\source\\net-mentoring-programs-main\\intermediate\\02_multithreading_in_net\\sources\\01_multithreading\\MultiThreading.Task3.Matrixes\\Multipliers\\MatricesMultiplierParallel.cs",
+              "RelativeDocumentMoniker": "MultiThreading.Task3.Matrixes\\Multipliers\\MatricesMultiplierParallel.cs",
+              "ToolTip": "C:\\Users\\Valeriya_Bugakova\\source\\net-mentoring-programs-main\\intermediate\\02_multithreading_in_net\\sources\\01_multithreading\\MultiThreading.Task3.Matrixes\\Multipliers\\MatricesMultiplierParallel.cs",
+              "RelativeToolTip": "MultiThreading.Task3.Matrixes\\Multipliers\\MatricesMultiplierParallel.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T17:33:06.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MatricesMultiplier.cs",
+              "DocumentMoniker": "C:\\Users\\Valeriya_Bugakova\\source\\net-mentoring-programs-main\\intermediate\\02_multithreading_in_net\\sources\\01_multithreading\\MultiThreading.Task3.Matrixes\\Multipliers\\MatricesMultiplier.cs",
+              "RelativeDocumentMoniker": "MultiThreading.Task3.Matrixes\\Multipliers\\MatricesMultiplier.cs",
+              "ToolTip": "C:\\Users\\Valeriya_Bugakova\\source\\net-mentoring-programs-main\\intermediate\\02_multithreading_in_net\\sources\\01_multithreading\\MultiThreading.Task3.Matrixes\\Multipliers\\MatricesMultiplier.cs",
+              "RelativeToolTip": "MultiThreading.Task3.Matrixes\\Multipliers\\MatricesMultiplier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T17:33:04.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MultiThreading.Task2.Chaining",
+              "DocumentMoniker": "C:\\Users\\Valeriya_Bugakova\\source\\net-mentoring-programs-main\\intermediate\\02_multithreading_in_net\\sources\\01_multithreading\\MultiThreading.Task2.Chaining\\MultiThreading.Task2.Chaining.csproj",
+              "RelativeDocumentMoniker": "MultiThreading.Task2.Chaining\\MultiThreading.Task2.Chaining.csproj",
+              "ToolTip": "C:\\Users\\Valeriya_Bugakova\\source\\net-mentoring-programs-main\\intermediate\\02_multithreading_in_net\\sources\\01_multithreading\\MultiThreading.Task2.Chaining\\MultiThreading.Task2.Chaining.csproj",
+              "RelativeToolTip": "MultiThreading.Task2.Chaining\\MultiThreading.Task2.Chaining.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-18T12:26:33.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Valeriya_Bugakova\\source\\net-mentoring-programs-main\\intermediate\\02_multithreading_in_net\\sources\\01_multithreading\\MultiThreading.Task2.Chaining\\Program.cs",
+              "RelativeDocumentMoniker": "MultiThreading.Task2.Chaining\\Program.cs",
+              "ToolTip": "C:\\Users\\Valeriya_Bugakova\\source\\net-mentoring-programs-main\\intermediate\\02_multithreading_in_net\\sources\\01_multithreading\\MultiThreading.Task2.Chaining\\Program.cs",
+              "RelativeToolTip": "MultiThreading.Task2.Chaining\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T12:24:56.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MultiThreading.Task1.100Tasks",
+              "DocumentMoniker": "C:\\Users\\Valeriya_Bugakova\\source\\net-mentoring-programs-main\\intermediate\\02_multithreading_in_net\\sources\\01_multithreading\\MultiThreading.Task1.100Tasks\\MultiThreading.Task1.100Tasks.csproj",
+              "RelativeDocumentMoniker": "MultiThreading.Task1.100Tasks\\MultiThreading.Task1.100Tasks.csproj",
+              "ToolTip": "C:\\Users\\Valeriya_Bugakova\\source\\net-mentoring-programs-main\\intermediate\\02_multithreading_in_net\\sources\\01_multithreading\\MultiThreading.Task1.100Tasks\\MultiThreading.Task1.100Tasks.csproj",
+              "RelativeToolTip": "MultiThreading.Task1.100Tasks\\MultiThreading.Task1.100Tasks.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-18T12:20:45.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Valeriya_Bugakova\\source\\net-mentoring-programs-main\\intermediate\\02_multithreading_in_net\\sources\\01_multithreading\\MultiThreading.Task1.100Tasks\\Program.cs",
+              "RelativeDocumentMoniker": "MultiThreading.Task1.100Tasks\\Program.cs",
+              "ToolTip": "C:\\Users\\Valeriya_Bugakova\\source\\net-mentoring-programs-main\\intermediate\\02_multithreading_in_net\\sources\\01_multithreading\\MultiThreading.Task1.100Tasks\\Program.cs",
+              "RelativeToolTip": "MultiThreading.Task1.100Tasks\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T12:15:55.487Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

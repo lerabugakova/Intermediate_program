@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "BoYy/CRgxyk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Valeriya_Bugakova\\source\\net-mentoring-programs-main\\intermediate\\02_multithreading_in_net\\sources\\01_multithreading\\MultiThreading.Task3.MatrixMultiplier.Tests\\MultiThreading.Task3.MatrixMultiplier.Tests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Valeriya_Bugakova\\.nuget\\packages\\microsoft.applicationinsights\\2.22.0\\microsoft.applicationinsights.2.22.0.nupkg.sha512",
+    "C:\\Users\\Valeriya_Bugakova\\.nuget\\packages\\microsoft.codecoverage\\17.13.0\\microsoft.codecoverage.17.13.0.nupkg.sha512",
+    "C:\\Users\\Valeriya_Bugakova\\.nuget\\packages\\microsoft.net.test.sdk\\17.13.0\\microsoft.net.test.sdk.17.13.0.nupkg.sha512",
+    "C:\\Users\\Valeriya_Bugakova\\.nuget\\packages\\microsoft.testing.extensions.telemetry\\1.6.3\\microsoft.testing.extensions.telemetry.1.6.3.nupkg.sha512",
+    "C:\\Users\\Valeriya_Bugakova\\.nuget\\packages\\microsoft.testing.extensions.trxreport.abstractions\\1.6.3\\microsoft.testing.extensions.trxreport.abstractions.1.6.3.nupkg.sha512",
+    "C:\\Users\\Valeriya_Bugakova\\.nuget\\packages\\microsoft.testing.extensions.vstestbridge\\1.6.3\\microsoft.testing.extensions.vstestbridge.1.6.3.nupkg.sha512",
+    "C:\\Users\\Valeriya_Bugakova\\.nuget\\packages\\microsoft.testing.platform\\1.6.3\\microsoft.testing.platform.1.6.3.nupkg.sha512",
+    "C:\\Users\\Valeriya_Bugakova\\.nuget\\packages\\microsoft.testing.platform.msbuild\\1.6.3\\microsoft.testing.platform.msbuild.1.6.3.nupkg.sha512",
+    "C:\\Users\\Valeriya_Bugakova\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.13.0\\microsoft.testplatform.objectmodel.17.13.0.nupkg.sha512",
+    "C:\\Users\\Valeriya_Bugakova\\.nuget\\packages\\microsoft.testplatform.testhost\\17.13.0\\microsoft.testplatform.testhost.17.13.0.nupkg.sha512",
+    "C:\\Users\\Valeriya_Bugakova\\.nuget\\packages\\mstest.analyzers\\3.8.3\\mstest.analyzers.3.8.3.nupkg.sha512",
+    "C:\\Users\\Valeriya_Bugakova\\.nuget\\packages\\mstest.testadapter\\3.8.3\\mstest.testadapter.3.8.3.nupkg.sha512",
+    "C:\\Users\\Valeriya_Bugakova\\.nuget\\packages\\mstest.testframework\\3.8.3\\mstest.testframework.3.8.3.nupkg.sha512",
+    "C:\\Users\\Valeriya_Bugakova\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Valeriya_Bugakova\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0\\system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
