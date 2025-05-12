@@ -9,28 +9,22 @@ namespace DataCaptureService
         static async Task Main(string[] args)
         {
             var number = 1;
-            while (true)
-            {
-                string content = $"Document Number {number++} .";
+            string content = $"Document Number {number++} .";
 
-                File.WriteAllText(filePath, content);
+            File.WriteAllText(filePath, content);
 
-                string messageBody = File.ReadAllText(filePath);
+            string messageBody = File.ReadAllText(filePath);
 
-                var factory = new ConnectionFactory { HostName = "localhost" };
-                using var connection = await factory.CreateConnectionAsync();
-                using var channel = await connection.CreateChannelAsync();
+            var factory = new ConnectionFactory { HostName = "localhost" };
+            using var connection = await factory.CreateConnectionAsync();
+            using var channel = await connection.CreateChannelAsync();
 
-                await channel.QueueDeclareAsync(queue: "data", durable: false, exclusive: false, autoDelete: false,
-                                                 arguments: null);
+            await channel.QueueDeclareAsync(queue: "data", durable: false, exclusive: false, autoDelete: false,
+                                             arguments: null);
 
-                var body = Encoding.UTF8.GetBytes(messageBody);
-                await channel.BasicPublishAsync(exchange: string.Empty, routingKey: "data", body: body);
-                Console.WriteLine($" [x] Sent {messageBody}");
-
-                Console.WriteLine(" Press [enter] to exit.");
-                Console.ReadLine();
-            }
+            var body = Encoding.UTF8.GetBytes(messageBody);
+            await channel.BasicPublishAsync(exchange: string.Empty, routingKey: "data", body: body);
+            Console.WriteLine($" [x] Sent {messageBody}");
         }
     }
 }

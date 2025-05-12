@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ImageTransformationServices")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+70fda36f373ba4e16329f17106ee91505a961165")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+169c57ed73a664167829d735984a952ca35e8704")]
 [assembly: System.Reflection.AssemblyProductAttribute("ImageTransformationServices")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ImageTransformationServices")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
