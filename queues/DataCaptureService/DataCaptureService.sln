@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataCaptureService", "DataCaptureService.csproj", "{9ADE1B52-67FF-4D81-A536-1F6AD819D63F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9ADE1B52-67FF-4D81-A536-1F6AD819D63F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ADE1B52-67FF-4D81-A536-1F6AD819D63F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ADE1B52-67FF-4D81-A536-1F6AD819D63F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ADE1B52-67FF-4D81-A536-1F6AD819D63F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE3DADA8-657D-4130-B593-F0FF1CA7652D}
+	EndGlobalSection
+EndGlobal
