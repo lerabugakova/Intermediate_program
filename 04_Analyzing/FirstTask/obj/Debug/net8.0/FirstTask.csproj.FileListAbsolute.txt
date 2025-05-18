@@ -1,0 +1,15 @@
+C:\Users\Valeriya_Bugakova\source\Intermidiate\04_Analyzing\FirstTask\bin\Debug\net8.0\FirstTask.exe
+C:\Users\Valeriya_Bugakova\source\Intermidiate\04_Analyzing\FirstTask\bin\Debug\net8.0\FirstTask.deps.json
+C:\Users\Valeriya_Bugakova\source\Intermidiate\04_Analyzing\FirstTask\bin\Debug\net8.0\FirstTask.runtimeconfig.json
+C:\Users\Valeriya_Bugakova\source\Intermidiate\04_Analyzing\FirstTask\bin\Debug\net8.0\FirstTask.dll
+C:\Users\Valeriya_Bugakova\source\Intermidiate\04_Analyzing\FirstTask\bin\Debug\net8.0\FirstTask.pdb
+C:\Users\Valeriya_Bugakova\source\Intermidiate\04_Analyzing\FirstTask\obj\Debug\net8.0\FirstTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valeriya_Bugakova\source\Intermidiate\04_Analyzing\FirstTask\obj\Debug\net8.0\FirstTask.AssemblyInfoInputs.cache
+C:\Users\Valeriya_Bugakova\source\Intermidiate\04_Analyzing\FirstTask\obj\Debug\net8.0\FirstTask.AssemblyInfo.cs
+C:\Users\Valeriya_Bugakova\source\Intermidiate\04_Analyzing\FirstTask\obj\Debug\net8.0\FirstTask.csproj.CoreCompileInputs.cache
+C:\Users\Valeriya_Bugakova\source\Intermidiate\04_Analyzing\FirstTask\obj\Debug\net8.0\FirstTask.sourcelink.json
+C:\Users\Valeriya_Bugakova\source\Intermidiate\04_Analyzing\FirstTask\obj\Debug\net8.0\FirstTask.dll
+C:\Users\Valeriya_Bugakova\source\Intermidiate\04_Analyzing\FirstTask\obj\Debug\net8.0\refint\FirstTask.dll
+C:\Users\Valeriya_Bugakova\source\Intermidiate\04_Analyzing\FirstTask\obj\Debug\net8.0\FirstTask.pdb
+C:\Users\Valeriya_Bugakova\source\Intermidiate\04_Analyzing\FirstTask\obj\Debug\net8.0\FirstTask.genruntimeconfig.cache
+C:\Users\Valeriya_Bugakova\source\Intermidiate\04_Analyzing\FirstTask\obj\Debug\net8.0\ref\FirstTask.dll

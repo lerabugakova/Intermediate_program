@@ -9,25 +9,22 @@ namespace FirstTask
 {
     public class ClassToRefactor
     {
-        public string GeneratePasswordHashUsingSalt(string passwordText, byte\[\] salt)
+        private const int Iterate = 10000;
+        private const int HashLength = 20;
+        private const int SaltLength = 16;
+        public string GeneratePasswordHashUsingSalt(string passwordText, byte[] salt)
         {
+            using var pbkdf2 = new Rfc2898DeriveBytes(passwordText, salt, Iterate, HashAlgorithmName.SHA256);
 
-            var iterate = 10000;
+            var hash = pbkdf2.GetBytes(HashLength);
+            var hashBytes = new byte[SaltLength + HashLength];
 
-            var pbkdf2 = new Rfc2898DeriveBytes(passwordText, salt, iterate);
-
-            byte\[\] hash = pbkdf2.GetBytes(20);
-
-            byte\[\] hashBytes = new byte\[36\];
-
-            Array.Copy(salt, 0, hashBytes, 0, 16);
-
-            Array.Copy(hash, 0, hashBytes, 16, 20);
+            Array.Copy(salt, 0, hashBytes, 0, SaltLength);
+            Array.Copy(hash, 0, hashBytes, SaltLength, HashLength);
 
             var passwordHash = Convert.ToBase64String(hashBytes);
 
             return passwordHash;
-
         }
     }
 }
