@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/04_Analyzing/FirstTask/.vs/FirstTask/DesignTimeBuild
+/04_Analyzing/FirstTask/.vs/FirstTask/FileContentIndex
+/04_Analyzing/FirstTask/.vs/FirstTask/v17
