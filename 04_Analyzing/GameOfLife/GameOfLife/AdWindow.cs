@@ -56,7 +56,6 @@ namespace GameOfLife
 
         private void ChangeAds(object sender, EventArgs eventArgs)
         {
-            
             ImageBrush myBrush = new ImageBrush();
             
             switch (imgNmb)
