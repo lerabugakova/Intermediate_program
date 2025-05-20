@@ -25,6 +25,7 @@
     <UseGlobalApplicationHostFile />
     <NuGetPackageImportStamp>
     </NuGetPackageImportStamp>
+    <Use64BitIISExpress />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -196,6 +197,7 @@
       <DependentUpon>MyImgContext.edmx</DependentUpon>
       <LastGenOutput>MyImgContext.Context.cs</LastGenOutput>
     </Content>
+    <Content Include="DAL\MyImgContext.edmx.sql" />
     <Content Include="DAL\MyImgContext.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
       <DependentUpon>MyImgContext.edmx</DependentUpon>

@@ -1,64 +1,66 @@
-﻿using System;
+﻿using ProfileSample.DAL;
+using ProfileSample.Models;
 using System.Collections.Generic;
+using System.Data.Entity;
 using System.IO;
 using System.Linq;
-using System.Web;
+using System.Threading.Tasks;
 using System.Web.Mvc;
-using ProfileSample.DAL;
-using ProfileSample.Models;
 
 namespace ProfileSample.Controllers
 {
     public class HomeController : Controller
     {
-        public ActionResult Index()
+        public async Task<ActionResult> Index()
         {
-            var context = new ProfileSampleEntities();
-
-            var sources = context.ImgSources.Take(20).Select(x => x.Id);
-            
-            var model = new List<ImageModel>();
-
-            foreach (var id in sources)
+            using (var context = new ProfileSampleEntities())
             {
-                var item = context.ImgSources.Find(id);
+                var model = await context.ImgSources
+                                         .Take(20)
+                                         .Select(x => new ImageModel
+                                         {
+                                             Name = x.Name,
+                                             Data = x.Data
+                                         })
+                                         .ToListAsync();
 
-                var obj = new ImageModel()
-                {
-                    Name = item.Name,
-                    Data = item.Data
-                };
-
-                model.Add(obj);
-            } 
-
-            return View(model);
+                return View(model);
+            }
         }
 
-        public ActionResult Convert()
+        public async Task<ActionResult> Convert()
         {
-            var files = Directory.GetFiles(Server.MapPath("~/Content/Img"), "*.jpg");
+            var imageDir = Server.MapPath("~/Content/Img");
+
+            if (!Directory.Exists(imageDir))
+                return RedirectToAction("Index");
+
+            var files = Directory.GetFiles(imageDir, "*.jpg");
 
             using (var context = new ProfileSampleEntities())
             {
                 foreach (var file in files)
                 {
-                    using (var stream = new FileStream(file, FileMode.Open))
+                    var fileName = Path.GetFileName(file);
+                    byte[] fileData;
+
+                    using (var stream = new FileStream(file, FileMode.Open, FileAccess.Read, FileShare.Read))
+                    using (var memory = new MemoryStream())
                     {
-                        byte[] buff = new byte[stream.Length];
-
-                        stream.Read(buff, 0, (int) stream.Length);
-
-                        var entity = new ImgSource()
-                        {
-                            Name = Path.GetFileName(file),
-                            Data = buff,
-                        };
-
-                        context.ImgSources.Add(entity);
-                        context.SaveChanges();
+                        await stream.CopyToAsync(memory).ConfigureAwait(false);
+                        fileData = memory.ToArray();
                     }
-                } 
+
+                    var entity = new ImgSource
+                    {
+                        Name = fileName,
+                        Data = fileData
+                    };
+
+                    context.ImgSources.Add(entity);
+                }
+
+                await context.SaveChangesAsync().ConfigureAwait(false);
             }
 
             return RedirectToAction("Index");
@@ -67,7 +69,6 @@ namespace ProfileSample.Controllers
         public ActionResult Contact()
         {
             ViewBag.Message = "Your contact page.";
-
             return View();
         }
     }
