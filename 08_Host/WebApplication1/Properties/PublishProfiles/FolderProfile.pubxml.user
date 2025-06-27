@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\Valeriya_Bugakova\source\Intermidiate\08_Host\WebApplication1\bin\Release\net8.0\publish\</_PublishTargetUrl>
+    <History>False|2025-06-27T13:17:57.9071026Z||;False|2025-06-27T18:17:35.8996766+05:00||;False|2025-06-27T18:17:16.1608894+05:00||;False|2025-06-27T18:17:02.1062641+05:00||;True|2025-06-27T18:12:13.4332261+05:00||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

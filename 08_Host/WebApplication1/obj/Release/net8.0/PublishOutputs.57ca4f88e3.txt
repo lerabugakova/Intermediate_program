@@ -1,0 +1,8 @@
+C:\Users\Valeriya_Bugakova\source\Intermidiate\08_Host\WebApplication1\obj\Release\net8.0\PubTmp\Out\WebApplication1.exe
+C:\Users\Valeriya_Bugakova\source\Intermidiate\08_Host\WebApplication1\obj\Release\net8.0\PubTmp\Out\web.config
+C:\Users\Valeriya_Bugakova\source\Intermidiate\08_Host\WebApplication1\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Valeriya_Bugakova\source\Intermidiate\08_Host\WebApplication1\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\Valeriya_Bugakova\source\Intermidiate\08_Host\WebApplication1\obj\Release\net8.0\PubTmp\Out\WebApplication1.dll
+C:\Users\Valeriya_Bugakova\source\Intermidiate\08_Host\WebApplication1\obj\Release\net8.0\PubTmp\Out\WebApplication1.deps.json
+C:\Users\Valeriya_Bugakova\source\Intermidiate\08_Host\WebApplication1\obj\Release\net8.0\PubTmp\Out\WebApplication1.runtimeconfig.json
+C:\Users\Valeriya_Bugakova\source\Intermidiate\08_Host\WebApplication1\obj\Release\net8.0\PubTmp\Out\WebApplication1.pdb
